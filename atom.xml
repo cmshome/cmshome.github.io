@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-17T08:13:56.792Z</updated>
+  <updated>2017-06-19T03:24:33.504Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,9 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>黑客帝国文字掉落特效</title>
+    <link href="http://yoursite.com/2017/06/19/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD%E5%AD%97%E6%AF%8D%E6%8E%89%E8%90%BD%E7%89%B9%E6%95%88/"/>
+    <id>http://yoursite.com/2017/06/19/黑客帝国字母掉落特效/</id>
+    <published>2017-06-19T06:03:08.000Z</published>
+    <updated>2017-06-19T03:24:33.504Z</updated>
+    
+    <content type="html"><![CDATA[<p>看过黑客帝国这个电影吗？<br>看到里面电脑屏幕掉落的一排排的101010110吗？<br>我这就实现个掉落字母外加掉落集合特殊汉字的效果。<br><a id="more"></a></p>
+<p><a href="/static/LetterDrop.html?_blank">黑客帝国文字掉落特效</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看过黑客帝国这个电影吗？&lt;br&gt;看到里面电脑屏幕掉落的一排排的101010110吗？&lt;br&gt;我这就实现个掉落字母外加掉落集合特殊汉字的效果。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>为什么写博客</title>
-    <link href="http://yoursite.com/2017/06/17/%E5%95%A6%E5%95%A6%E5%95%A6/"/>
-    <id>http://yoursite.com/2017/06/17/啦啦啦/</id>
+    <link href="http://yoursite.com/2017/06/17/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/06/17/为什么写博客/</id>
     <published>2017-06-17T06:03:08.000Z</published>
     <updated>2017-06-17T08:13:56.792Z</updated>
     
@@ -56,8 +78,8 @@
   
   <entry>
     <title>Java 项目readme.md文件</title>
-    <link href="http://yoursite.com/2017/06/16/test/"/>
-    <id>http://yoursite.com/2017/06/16/test/</id>
+    <link href="http://yoursite.com/2017/06/16/Java%20hello%20world%20%E9%A1%B9%E7%9B%AEreadme%E6%96%87%E4%BB%B6/"/>
+    <id>http://yoursite.com/2017/06/16/Java hello world 项目readme文件/</id>
     <published>2017-06-16T06:03:08.000Z</published>
     <updated>2017-06-16T06:52:18.239Z</updated>
     
@@ -152,8 +174,8 @@
   
   <entry>
     <title>Hello World -- hexo</title>
-    <link href="http://yoursite.com/2017/06/10/hello/"/>
-    <id>http://yoursite.com/2017/06/10/hello/</id>
+    <link href="http://yoursite.com/2017/06/10/hello%20world%20-%20hexo%20%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90/"/>
+    <id>http://yoursite.com/2017/06/10/hello world - hexo 自动生成/</id>
     <published>2017-06-10T06:03:08.000Z</published>
     <updated>2017-06-16T06:48:34.816Z</updated>
     
