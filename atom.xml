@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-19T03:35:08.452Z</updated>
+  <updated>2017-06-19T03:42:00.497Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,16 @@
     <link href="http://yoursite.com/2017/06/19/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD%E5%AD%97%E6%AF%8D%E6%8E%89%E8%90%BD%E7%89%B9%E6%95%88/"/>
     <id>http://yoursite.com/2017/06/19/黑客帝国字母掉落特效/</id>
     <published>2017-06-19T06:03:08.000Z</published>
-    <updated>2017-06-19T03:35:08.452Z</updated>
+    <updated>2017-06-19T03:42:00.497Z</updated>
     
     <content type="html"><![CDATA[<p>看过黑客帝国这个电影吗？<br>看到里面电脑屏幕掉落的一排排的101010110吗？<br>我这就实现了掉落字母外加掉落几个特殊汉字的效果。<br><a id="more"></a></p>
 <p><a href="/static/LetterDrop.html?_blank">黑客帝国文字掉落特效</a></p>
+<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><ul>
+<li>QQ：<a href="http://blog.csdn.net/qq_27093465?viewmode=contents" title="我的qq号" target="_blank" rel="external">1181415316</a></li>
+<li>Email：  <a href="http://mail.163.com/" title="我的邮箱" target="_blank" rel="external">cmshome@163.com</a></li>
+<li>GitHub： <a href="https://github.com/cmshome" title="我的GitHub" target="_blank" rel="external">Please Call Me Big Brother.</a></li>
+<li>CSDN：   <a href="http://blog.csdn.net/qq_27093465?viewmode=contents" title="我的CSDN" target="_blank" rel="external">请叫我大师兄</a></li>
+</ul>
 ]]></content>
     
     <summary type="html">
